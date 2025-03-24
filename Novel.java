@@ -1,6 +1,15 @@
-public class Novel{
-    public static void main(String[] ab){
-        System.out.println("An imperial monster masquerades as a mercantile company. From gunpowder to opium, the East India Company uses every weapon to bring an entire sub-continent to its knees. Even Tipu, the fearsome Tiger of Mysore, falls prey to British military might. As a century of deceit and cruelty unfolds - the oppressed thirst for retribution. Delhi is the first to drown in blood, as a violent sepoy uprising engulfs all of Hindustan. The seat of the crumbling Mughal empire emerges as the epicenter of the ghadar. An unforgettable poet laments the destruction of his beloved city and a senile Badshah?s eyes gleam with unreal hope, as both sides of the Laal Qila witness terrifying bloodshed and historical battles. And amidst all the cannon-roars, brutal duels, intoxicated mushairas, ravishing courtesans, haunted treasures and bloody battles ? unfolds the immortal story of the magnificent Mastaan Pandey. Did one man really change the course of history?s greatest war for freedom?");
-        
+public class Novel {
+    public static void main(String[] args) {
+        int id = 2021;
+        String title = "The Great Gatsby";
+        String author = "F. Scott Fitzgerald";
+        int publicationYear = 1925;
+        boolean isBestseller = true;
+
+        System.out.println("Novel ID is: " + id);
+        System.out.println("Novel title is: " + title);
+        System.out.println("Novel author is: " + author);
+        System.out.println("Novel publication year is: " + publicationYear);
+        System.out.println("Is it a bestseller: " + isBestseller);
     }
 }
