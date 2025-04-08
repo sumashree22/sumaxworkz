@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" packagePrefix="com.xworkz" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="simcard-management" />
+    <orderEntry type="module" module-name="marker-management" />
+    <orderEntry type="module" module-name="water-management2" />
+    <orderEntry type="module" module-name="tiles-management" />
+    <orderEntry type="module" module-name="governmentjobs-management" />
+    <orderEntry type="module" module-name="cooker-management" />
+    <orderEntry type="module" module-name="simcard-management2" />
+    <orderEntry type="module" module-name="celebrity-management" />
+    <orderEntry type="module" module-name="constitution-management" />
+    <orderEntry type="module" module-name="gasgeyser-management" />
+    <orderEntry type="module" module-name="shirt-management" />
+    <orderEntry type="module" module-name="ladder-management" />
+    <orderEntry type="module" module-name="crops-management" />
+    <orderEntry type="module" module-name="buttermilk-management" />
+    <orderEntry type="module" module-name="tiles-management2" />
+    <orderEntry type="module" module-name="mobileCase-management2" />
+    <orderEntry type="module" module-name="steel-management" />
+    <orderEntry type="module" module-name="steel-management2" />
+    <orderEntry type="module" module-name="chalk-management" />
+    <orderEntry type="module" module-name="festival-management" />
+    <orderEntry type="module" module-name="shirt-management2" />
+    <orderEntry type="module" module-name="mobileCase-management" />
+    <orderEntry type="module" module-name="mattress-management" />
+    <orderEntry type="module" module-name="water-management" />
+    <orderEntry type="module" module-name="granite-management" />
+  </component>
+</module>
