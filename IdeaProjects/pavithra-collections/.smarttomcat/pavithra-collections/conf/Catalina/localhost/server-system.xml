@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="C:/Users/Sumashree HM/IdeaProjects/server-system/src/main/webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="C:/Users/Sumashree HM/IdeaProjects/server-system/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="C:/Users/Sumashree HM/.m2/repository/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/lombok-1.18.30.jar"/>
+  </Resources>
+</Context>

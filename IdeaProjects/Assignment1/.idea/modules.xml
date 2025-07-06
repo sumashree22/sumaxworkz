@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment1.iml" filepath="$PROJECT_DIR$/Assignment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buttermilk-management/buttermilk-management.iml" filepath="$PROJECT_DIR$/buttermilk-management/buttermilk-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/celebrity-management/celebrity-management.iml" filepath="$PROJECT_DIR$/celebrity-management/celebrity-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chalk-management/chalk-management.iml" filepath="$PROJECT_DIR$/chalk-management/chalk-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constitution-management/constitution-management.iml" filepath="$PROJECT_DIR$/constitution-management/constitution-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cooker-management/cooker-management.iml" filepath="$PROJECT_DIR$/cooker-management/cooker-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crops-management/crops-management.iml" filepath="$PROJECT_DIR$/crops-management/crops-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/festival-management/festival-management.iml" filepath="$PROJECT_DIR$/festival-management/festival-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gasgeyser-management/gasgeyser-management.iml" filepath="$PROJECT_DIR$/gasgeyser-management/gasgeyser-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/governmentjobs-management/governmentjobs-management.iml" filepath="$PROJECT_DIR$/governmentjobs-management/governmentjobs-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/granite-management/granite-management.iml" filepath="$PROJECT_DIR$/granite-management/granite-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ladder-management/ladder-management.iml" filepath="$PROJECT_DIR$/ladder-management/ladder-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marker-management/marker-management.iml" filepath="$PROJECT_DIR$/marker-management/marker-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mattress-management/mattress-management.iml" filepath="$PROJECT_DIR$/mattress-management/mattress-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobileCase-management/mobileCase-management.iml" filepath="$PROJECT_DIR$/mobileCase-management/mobileCase-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mattress-management/mobileCase-management/mobileCase-management2.iml" filepath="$PROJECT_DIR$/mattress-management/mobileCase-management/mobileCase-management2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shirt-management/shirt-management.iml" filepath="$PROJECT_DIR$/shirt-management/shirt-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mattress-management/shirt-management/shirt-management2.iml" filepath="$PROJECT_DIR$/mattress-management/shirt-management/shirt-management2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mattress-management/simcard-management/simcard-management.iml" filepath="$PROJECT_DIR$/mattress-management/simcard-management/simcard-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simcard-management/simcard-management2.iml" filepath="$PROJECT_DIR$/simcard-management/simcard-management2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mattress-management/steel-management/steel-management.iml" filepath="$PROJECT_DIR$/mattress-management/steel-management/steel-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/steel-management/steel-management2.iml" filepath="$PROJECT_DIR$/steel-management/steel-management2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiles-management/tiles-management.iml" filepath="$PROJECT_DIR$/tiles-management/tiles-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mattress-management/tiles-management/tiles-management2.iml" filepath="$PROJECT_DIR$/mattress-management/tiles-management/tiles-management2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/water-management/water-management.iml" filepath="$PROJECT_DIR$/water-management/water-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mattress-management/water-management/water-management2.iml" filepath="$PROJECT_DIR$/mattress-management/water-management/water-management2.iml" />
+    </modules>
+  </component>
+</project>
